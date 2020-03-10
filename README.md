@@ -15,14 +15,14 @@
 ## Use Case Diagram
  1.Cashier
  
- *login
+   * login
  
- *view menu
+   * view menu
  
- *input customer selected order
+   * input customer selected order
  
- *view payments
+   * view payments
  
- *input cash he/she recieve
+   * input cash he/she recieve
  
- *view change
+   * view change
