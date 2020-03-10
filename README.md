@@ -13,7 +13,7 @@
 5.Cashier view the change
 
 ## Use Case Diagram
- 1.Cashier
+ Cashier
  
    * login
  
